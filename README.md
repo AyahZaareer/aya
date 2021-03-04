@@ -24,11 +24,9 @@
 5. fails to reach full potential
 
 ![image](https://storage.googleapis.com/proudcity/elgl/uploads/2020/08/growth-mindset-brain.png)
-| section num | Descrbtion                |
+| read more   | ![clik her](
 |-------------|---------------------------|
-| section 1   | What is a growth mindset? |
-| section 2   | Growth mindset            |
-| section 3   | Avoids challenges         |
+
 
 
 
