@@ -24,7 +24,7 @@
 5. fails to reach full potential
 
 ![image](https://storage.googleapis.com/proudcity/elgl/uploads/2020/08/growth-mindset-brain.png)
-| read more   | ![clik her](https://ayahzaareer.github.io/markdown/) |
+| read more   | [clik her](https://ayahzaareer.github.io/markdown/) |
 |-------------|------------------------------------------------------|
 
 
